@@ -1,0 +1,19 @@
+{
+  "name": "proxy-over-api",
+  "version": "1.0.0",
+  "description": "Lazy load using require.js while exposing the API before loading it, using a smart ES6 Proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segevofer/proxy-over-api.git"
+  },
+  "author": "Ofer Segev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/segevofer/proxy-over-api/issues"
+  },
+  "homepage": "https://github.com/segevofer/proxy-over-api#readme"
+}
